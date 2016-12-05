@@ -10,3 +10,4 @@ patch:
     - { when: has_menu, accept: apostrophe, send: 3 }
   "punctuator/import_preset": symbols.custom
   "recognizer/patterns/punct": "^[\\\\/][a-z]*$"
+  "translator/dictionary": wubi86.custom

@@ -2,5 +2,5 @@
 
 !.gitignore
 !*.custom.yaml
-!*.dict.yaml
+!*.custom.dict.yaml
 !*.md
