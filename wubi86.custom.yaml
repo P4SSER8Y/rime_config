@@ -1,0 +1,12 @@
+# wubi86 patch
+
+patch:
+  "translator/enable_user_dict": false
+  switches:
+    - name: ascii_mode
+      reset: 1
+  "key_binder/bindings":
+    - { when: has_menu, accept: semicolon, send: 2 }
+    - { when: has_menu, accept: apostrophe, send: 3 }
+  "punctuator/import_preset": symbols.custom
+  "recognizer/patterns/punct": "^[\\\\/][a-z]*$"

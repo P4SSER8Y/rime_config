@@ -1,0 +1,13 @@
+# wubi86 Extended Dictionary File
+---
+name: wubi86.extended
+version: "2014-11-18"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - wubi86
+---
+
+# table begins
+微博	tmfg	100000
+
