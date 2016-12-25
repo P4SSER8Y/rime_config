@@ -19,9 +19,6 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-  filters:
-    - simplifier
-    - uniquifier
 key_binder:
   bindings:
     - {accept: semicolon, send: 2, when: has_menu}
