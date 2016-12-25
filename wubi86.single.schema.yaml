@@ -19,6 +19,9 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+  filters:
+    - simplifier
+    - uniquifier
 key_binder:
   bindings:
     - {accept: semicolon, send: 2, when: has_menu}
@@ -49,15 +52,24 @@ schema:
     五筆字型86版
     碼表源自 ibus-table
     敲 z 鍵進入拼音反查
-    
+
   name: "五笔86 单字版"
   schema_id: wubi86.single
   version: 0.21.custom.1395876748
 speller:
   delimiter: " ;'"
+  auto_select: true
+  auto_select_unique_candidate: true
 switches:
   - name: ascii_mode
     reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+    reset: 1
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 translator:
   dictionary: wubi86.single.custom
   disable_user_dict_for_patterns:
@@ -67,4 +79,4 @@ translator:
   enable_sentence: true
   enable_user_dict: false
   encode_commit_history: true
-  max_phrase_length: 4
+  max_phrase_length: 1
