@@ -4,3 +4,4 @@
 !*.custom.yaml
 !*.custom.dict.yaml
 !*.md
+!wubi86.single.schema.yaml

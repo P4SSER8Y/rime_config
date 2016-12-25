@@ -96,6 +96,11 @@ punctuator:
 # 其它
     '\male': '♂'
     '\female': '♀'
+    '\rightarrow': '→'
+    '\leftarrow': '←'
+    '\uparrow': '↑'
+    '\downarrow': '↓'
+    '\tm': '™'
   
 #假名
     
