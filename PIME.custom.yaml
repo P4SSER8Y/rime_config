@@ -1,9 +1,9 @@
 patch:
   style/color_scheme: sandbox
   style/display_tray_icon: true
-  style/candidate_format: "{0} "
+  style/candidate_format: "{0} {1}"
   style/candidate_per_row: 5
-  style/inline_preedit: preview
+  style/inline_preedit: composition  #composition, preview, input, false
   preset_color_schemes/sandbox:
     name: 沙盒/Sandbox
     author: Troy
