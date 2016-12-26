@@ -1,6 +1,6 @@
 ---
 name: wubi86.single.custom
-version: "0.7"
+version: "0.1"
 sort: by_weight
 columns:
   - text

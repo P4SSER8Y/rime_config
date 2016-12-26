@@ -19,6 +19,8 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+  filters:
+    - single_char_filter
 key_binder:
   bindings:
     - {accept: semicolon, send: 2, when: has_menu}
@@ -69,11 +71,9 @@ switches:
     states: [ 。，, ．， ]
 translator:
   dictionary: wubi86.single.custom
-  disable_user_dict_for_patterns:
-    - "^z.*$"
   enable_charset_filter: true
-  enable_encoder: true
-  enable_sentence: true
+  enable_encoder: false
+  enable_sentence: false
   enable_user_dict: false
-  encode_commit_history: true
+  encode_commit_history: false
   max_phrase_length: 1
