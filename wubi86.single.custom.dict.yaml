@@ -1968,7 +1968,6 @@ columns:
 台	ck	75648549 
 简	tuj	75600000 
 侧	wmj	75600000 
-简	tujf	75600000 
 侧	wmjh	75600000 
 拉	ru	75570396 
 枫	smq	75500000 
@@ -8010,7 +8009,6 @@ columns:
 佼	wuqy	974000 
 亵	yrv	973000 
 亵	yrve	973000 
-垚	ffff	972000 
 阐	uuj	971000 
 阐	uujf	971000 
 腴	evw	970000 
@@ -8361,7 +8359,6 @@ columns:
 旆	ytgh	797000 
 刍	qvf	796000 
 祜	pydg	796000 
-昉	jyn	795000 
 怙	ndg	795000 
 棻	awvs	795000 
 汊	icyy	794000 
@@ -8370,7 +8367,6 @@ columns:
 衩	pucy	793000 
 鹜	cbtg	791000 
 栝	stdg	791000 
-嚭	fkuk	790000 
 倥	wpw	789000 
 倥	wpwa	789000 
 洄	ilk	788000 
@@ -8414,7 +8410,6 @@ columns:
 浯	igkg	774000 
 绐	xck	773000 
 蒯	aeej	773000 
-蓍	aftj	773000 
 绐	xckg	773000 
 莅	awuf	771000 
 痿	utv	769000 
@@ -8819,7 +8814,6 @@ columns:
 皑	rmnn	560000 
 纫	xvyy	560000 
 骝	cqyl	559000 
-箪	tujf	559000 
 埙	fkmy	557000 
 椪	suog	557000 
 仫	wtcy	557000 
@@ -9561,7 +9555,6 @@ columns:
 铙	qat	268000 
 冱	ugx	268000 
 瘕	unh	268000 
-鞒	aftj	268000 
 铙	qatq	268000 
 樗	sffn	268000 
 冱	ugxg	268000 
@@ -10204,8 +10197,7 @@ columns:
 滠	ibcc	142000 
 狲	qtbi	142000 
 婌	vhic	142000 
-牾	trgk	141000 
-穜	tujf	141000 
+牾	trgk	141000  
 昳	jrwy	140000 
 哃	kmgk	140000 
 梏	stfk	140000 
@@ -10363,7 +10355,6 @@ columns:
 僬	wwyo	114000 
 蜍	jwt	113000 
 蜍	jwty	113000 
-煳	odeg	113000 
 鞳	afak	112000 
 葸	alnu	112000 
 胲	eynw	112000 
@@ -10394,8 +10385,7 @@ columns:
 腨	emdj	108000 
 峃	ipmj	108000 
 嫕	vatn	108000 
-戽	ynuf	108000 
-皕	djdj	107000 
+戽	ynuf	108000
 姱	vdfn	107000 
 碡	dgx	106000 
 椠	lrs	106000 
@@ -10545,7 +10535,6 @@ columns:
 躏	khay	89300 
 鲕	qgdj	89200 
 鲚	qgyj	89200 
-剕	djdj	89100 
 汫	ifjh	88300 
 唪	kdw	88000 
 唪	kdwh	88000 
@@ -10956,7 +10945,6 @@ columns:
 蒈	axxr	48300 
 汈	ingg	48300 
 郚	gkbh	48100 
-闬	ufk	47900 
 嬥	vnwy	47900 
 暵	jakw	47600 
 麀	ynjx	47300 
@@ -10991,7 +10979,6 @@ columns:
 婘	vudb	44700 
 塅	fwdc	44600 
 渰	iwga	44600 
-烠	odeg	44600 
 慭	godn	44300 
 墐	fakg	44000 
 椢	slgy	44000 
@@ -11242,7 +11229,6 @@ columns:
 峛	mgqj	24900 
 睚	hd	24780 
 蔈	asfi	24600 
-蚄	jyn	24500 
 涄	imgn	24500 
 鲬	qgce	24500 
 鹲	apfg	24400 
@@ -11259,7 +11245,6 @@ columns:
 柖	svkg	23000 
 螱	nfij	22900 
 鳈	qgri	22900 
-堼	ffff	22800 
 黇	amwk	22700 
 琔	gpgh	22500 
 翈	lng	22300 
@@ -11290,6 +11275,10 @@ columns:
 诶	yct
 嘅	kvcq
 佢	wang
+瞓	hyk
+瞓	hyk
+咗	kdag
+咗	kda
 
 (¦3[▓▓])	htip
 (╯°Д°）╯︵ ┻━┻	rrhj
