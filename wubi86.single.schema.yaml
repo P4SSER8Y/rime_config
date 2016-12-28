@@ -1,4 +1,3 @@
-customization: 1395876748
 engine:
   processors:
     - ascii_composer
@@ -77,3 +76,4 @@ translator:
   enable_user_dict: false
   encode_commit_history: false
   max_phrase_length: 1
+  
