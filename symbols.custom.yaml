@@ -93,6 +93,7 @@ punctuator:
     '\square': '²' 
     '\cubic': '³'
     '\pm': '±'
+    '\infty': '∞'
 # 其它
     '\male': '♂'
     '\female': '♀'
