@@ -82,6 +82,8 @@ punctuator:
     '\pyu': [ ū, ú, ǔ, ù ]
     '\pyv': [ ǖ, ǘ, ǚ, ǜ, ü]
 #数学符号
+    '\degree': '°'
+    '\celsius': '℃'
     '\neq': '≠'
     '\approx': '≈'
     '\cap': '∩'
@@ -94,6 +96,7 @@ punctuator:
     '\cubic': '³'
     '\pm': '±'
     '\infty': '∞'
+    '\root': '√'
 # 其它
     '\male': '♂'
     '\female': '♀'
@@ -102,6 +105,7 @@ punctuator:
     '\uparrow': '↑'
     '\downarrow': '↓'
     '\tm': '™'
+    '\check': '✓'
   
 #假名
     
