@@ -3,7 +3,6 @@ patch:
     - {schema: wubi86.single}
   "switcher/hotkeys":
     - "Control+Shift+F4"
-    - "Control+grave"
   key_binder:
     bindings:
       - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
