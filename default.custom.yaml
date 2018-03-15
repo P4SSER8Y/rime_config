@@ -1,10 +1,7 @@
 patch:
   schema_list:
-    - {schema: wubi86}
     - {schema: wubi86.single}
-    - {schema: jyutping}
-    - {schema: double_pinyin_flypy}
-  switcher/hotkeys:
+  "switcher/hotkeys":
     - "Control+Shift+F4"
     - "Control+grave"
   key_binder:

@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 patch:
-  style/horizontal: true
-  style/display_tray_icon: true
-  style/color_scheme: dark_temple
-  style/inline_preedit: true
+  "style/horizontal": true
+  "style/display_tray_icon": true
+  "style/color_scheme": dark_temple
+  "style/inline_preedit": true
   
