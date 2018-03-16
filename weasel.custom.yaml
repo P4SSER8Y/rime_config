@@ -6,4 +6,7 @@ patch:
   "style/display_tray_icon": true
   "style/color_scheme": dark_temple
   "style/inline_preedit": true
+  "style/font_face": "方正兰亭黑Pro_GB18030"
+  "style/preedit_type": preview
+  
   
