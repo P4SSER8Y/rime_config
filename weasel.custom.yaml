@@ -7,6 +7,7 @@ patch:
   "style/color_scheme": dark_temple
   "style/inline_preedit": true
   "style/font_face": "方正兰亭黑Pro_GB18030"
+  "style/font_point": 14
   "style/preedit_type": preview
   
   

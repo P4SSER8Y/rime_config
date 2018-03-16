@@ -1,8 +1,12 @@
 patch:
   schema_list:
     - {schema: wubi86.single}
+    - {schema: double_pinyin_flypy}
+    - {schema: jyutping}
+    - {schema: wubi86}
   "switcher/hotkeys":
-    - "Control+Shift+F4"
+      - "Control+Shift+F4"
+  "switcher/caption": "_(:3」∠)_"
   key_binder:
     bindings:
       - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
