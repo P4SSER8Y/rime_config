@@ -1,0 +1,14 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	7
+#@/user_id	Manjaro
+ai ta 	愛他	c=1 d=0.995012 t=7
+luo ri 	落日	c=0 d=0.0995012 t=7
+luo ri qiang wei 	落日薔薇	c=1 d=1 t=7
+nian nian 	年年	c=1 d=0.99005 t=7
+qiang wei 	薔薇	c=0 d=0.0995012 t=7
+ran hou 	然後	c=1 d=0.985112 t=7
+su dong 	速凍	c=1 d=1 t=7
+wan quan 	完全	c=2 d=1.95551 t=7

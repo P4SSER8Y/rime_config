@@ -1,0 +1,26 @@
+# Rime table
+#@/db_name	wubi98_dz
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	32
+在	d	1
+夺	df	3
+云	fcu	1
+去	fcu	3
+支	fcu	1
+步	hh	1
+叔	hi	1
+没	iw	3
+是	j	1
+困	ls	2
+同	m	1
+这	p	1
+宁	ps	1
+么	tc	2
+什	wf	1
+值	wfh	1
+你	wq	2
+结	xf	1
+乡	xt	1
+张	xta	3
+启	ynk	1

@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	wubi86
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	3
+#@/user_id	Manjaro
+j 	是	c=1 d=1 t=3
+wq 	你	c=1 d=0.995012 t=3
+encwqjg 	你是	c=0 d=0.1 t=3
